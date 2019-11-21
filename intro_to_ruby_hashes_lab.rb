@@ -58,4 +58,6 @@ def monopoly_with_fourth_tier
 	    }
 	  }
 	}
+	
+	monopoly_with_fourth_tier[:railroads][:names][:shortline_railroad]["mortgage_value"]
 end
